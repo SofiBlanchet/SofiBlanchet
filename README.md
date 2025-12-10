@@ -1,11 +1,11 @@
-# ¡Hola! Soy Sofía Blanchet Ibarra 👋🐶
+# ¡Hola! Soy Sofía Blanchet Ibarra 👋❤️
 
 <div align="center">
   
   <!-- Aquí puedes agregar un banner personalizado o un GIF -->
   <!-- <img src="URL_DE_TU_BANNER" alt="Banner" width="100%"> -->
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B2335&center=true&vCenter=true&width=435&lines=Desarrolladora+Front-end;Estudiante+de+Sistemas;Amante+de+los+perritos+%F0%9F%90%B6;Siempre+aprendiendo+algo+nuevo!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B2335&center=true&vCenter=true&width=435&lines=Desarrolladora+Front-end+😉;Estudiante+de+Sistemas;+%F0%9F%90%B6;Siempre+aprendiendo+algo+nuevo!)
 
 </div>
 
@@ -18,16 +18,13 @@ const sofia = {
     ubicacion: "Concepción del Uruguay, Entre Ríos 📍",
     estudiando: "Licenciatura en Sistemas de Información - UADER",
     tituloBuscado: "Analista en Sistemas",
-    pasiones: ["Programación", "Perritos 🐕", "Aprender cosas nuevas"],
+    pasiones: ["Programación", "Pizza", "Aprender cosas nuevas"],
     objetivo: "Encontrar mi primer trabajo en IT y seguir creciendo profesionalmente"
 };
 ```
 
 <div align="center">
-  
-  <!-- Espacio para agregar una foto tuya o de tus mascotas -->
-  <!-- <img src="URL_DE_TU_FOTO" alt="Mi foto" width="200" style="border-radius: 50%"> -->
-  
+<img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvhL/giphy.gif" alt="Gif decorativo" width="200">
 </div>
 
 ---
@@ -121,7 +118,6 @@ Plataforma de comercio electrónico completa donde participé en:
 <!-- <img src="URL_FOTO_PERRITO_1" alt="Mi perrito" width="150"> -->
 <!-- <img src="URL_FOTO_PERRITO_2" alt="Mi perrito" width="150"> -->
 
-*"La vida es mejor con código y perritos"* 🐶💻
 
 ---
 
@@ -131,9 +127,7 @@ Plataforma de comercio electrónico completa donde participé en:
 
 🌈 Soy una persona alegre y optimista
 
-🐕 Los perritos hacen todo mejor
-
-☕ El café es mi combustible para programar
+🎵 Me encanta programar con música
 
 ---
 
@@ -160,6 +154,8 @@ Plataforma de comercio electrónico completa donde participé en:
 <div align="center">
   
   💜 *Gracias por visitar mi perfil* 💜
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG85NHVkM2R4eHE2dm0yM3hmanhoYXF5OXRlNmI5ejZhYmx4NDlyZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/MDJ9IbxxvDUQM/giphy.gif" alt="Gif perrito" width="150">
   
   *Abierta a oportunidades laborales y colaboraciones*
   
