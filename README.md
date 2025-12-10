@@ -24,7 +24,7 @@ const sofia = {
 ```
 
 <div align="center">
-<img src="https://media.giphy.com/media/Cdkk6wFFqisTe/giphy.gif" alt="Gif decorativo" width="100">
+<img src="https://media.giphy.com/media/Cdkk6wFFqisTe/giphy.gif" alt="Gif decorativo" width="160">
 </div>
 
 ---
