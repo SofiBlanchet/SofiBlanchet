@@ -5,7 +5,7 @@
   <!-- Aquí puedes agregar un banner personalizado o un GIF -->
   <!-- <img src="URL_DE_TU_BANNER" alt="Banner" width="100%"> -->
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B2335&center=true&vCenter=true&width=435&lines=Desarrolladora+Front-end+😉;Estudiante+de+Sistemas;+%F0%9F%90%B6;Siempre+aprendiendo+algo+nuevo!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B2335&center=true&vCenter=true&width=435&lines=Desarrolladora+Front-end+😉;Estudiante+de+Sistemas;Siempre+aprendiendo+algo+nuevo!)
 
 </div>
 
