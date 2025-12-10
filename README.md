@@ -24,7 +24,7 @@ const sofia = {
 ```
 
 <div align="center">
-<img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvhL/giphy.gif" alt="Gif decorativo" width="200">
+<img src="https://media.giphy.com/media/Cdkk6wFFqisTe/giphy.gif" alt="Gif decorativo" width="100%">
 </div>
 
 ---
@@ -110,15 +110,6 @@ Plataforma de comercio electrónico completa donde participé en:
 
 ---
 
-<div align="center">
-
-## 🐾 Espacio para mis compañeros peludos
-
-<!-- Aquí puedes agregar fotos de tus perritos! -->
-<!-- <img src="URL_FOTO_PERRITO_1" alt="Mi perrito" width="150"> -->
-<!-- <img src="URL_FOTO_PERRITO_2" alt="Mi perrito" width="150"> -->
-
-
 ---
 
 ### ✨ Fun Facts
@@ -128,6 +119,8 @@ Plataforma de comercio electrónico completa donde participé en:
 🌈 Soy una persona alegre y optimista
 
 🎵 Me encanta programar con música
+
+<img src="image/Arctic monkeys is one of my favorite bands as they don't care about what people say about them.gif" alt="Arctic Monkeys" width="100%">
 
 ---
 
